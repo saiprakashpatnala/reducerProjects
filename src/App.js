@@ -1,10 +1,10 @@
-import ProjectShowCase from './componnets/ProjectShowCase';
+import GitHubUser from './componnets/GitHubUser';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-   <ProjectShowCase/>
+   <GitHubUser/>
     </div>
   );
 }
